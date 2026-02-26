@@ -17,6 +17,8 @@ The program provides a fully interactive Graphical User Interface (GUI) where us
 - Assign traversal costs  
 - Select an algorithm  
 - Visualize visited nodes and final path  
+<img width="929" height="637" alt="image" src="https://github.com/user-attachments/assets/5f20175a-bb74-49a4-8dfd-8c902bd1a0da" />
+
 
 **Constraints followed:**  
 
