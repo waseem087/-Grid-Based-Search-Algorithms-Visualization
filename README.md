@@ -1,1 +1,1 @@
-# -Grid-Based-Search-Algorithms-Visualization
+# Grid-Based-Search-Algorithms-Visualization
