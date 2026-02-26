@@ -79,7 +79,7 @@ The program provides a fully interactive Graphical User Interface (GUI) where us
 - Uses Queue (FIFO)  
 - Time/Space Complexity: O(R×C)  
 - Optimal: Yes  
-<img width="969" height="1016" alt="image" src="https://github.com/user-attachments/assets/793b1b52-3e11-4195-9fba-e921b72197f8" />
+<img width="535" height="547" alt="image" src="https://github.com/user-attachments/assets/dc0310b7-5385-4f4f-b082-b3bab05e4143" />
 
 #### 4.2 DFS
 - Explores fully along branches, not guaranteed shortest path  
