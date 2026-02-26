@@ -103,6 +103,8 @@ The program provides a fully interactive Graphical User Interface (GUI) where us
 - Uses closed set to avoid re-expansion  
 - Time Complexity: O(RC log(RC)), Space: O(RC)  
 - Optimal: Yes  
+<img width="547" height="541" alt="image" src="https://github.com/user-attachments/assets/d825f59e-64a4-45e6-ac04-a268f2ee473b" />
+<img width="540" height="549" alt="image" src="https://github.com/user-attachments/assets/f586295f-1115-477b-aa91-3d0d8c1b2b71" />
 
 ---
 
