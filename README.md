@@ -94,6 +94,7 @@ The program provides a fully interactive Graphical User Interface (GUI) where us
 - Guarantees least-cost path  
 - Time Complexity: O(RC log(RC)), Space: O(RC)  
 - Optimal: Yes  
+<img width="553" height="544" alt="image" src="https://github.com/user-attachments/assets/909d06be-c4ff-415b-8f06-2a450b7dc265" />
 
 #### 4.4 A*
 - Priority f = g + h  
