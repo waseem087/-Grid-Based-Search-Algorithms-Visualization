@@ -86,7 +86,8 @@ The program provides a fully interactive Graphical User Interface (GUI) where us
 - Uses Stack (LIFO)  
 - Time/Space Complexity: O(R×C)  
 - Optimal: No  
-<img width="907" height="1022" alt="image" src="https://github.com/user-attachments/assets/99060f5a-9822-4a2e-9bd2-b72887aaf38b" />
+<img width="534" height="544" alt="image" src="https://github.com/user-attachments/assets/c981e7b8-d9ba-42d7-8316-b46d2018c086" />
+
 
 #### 4.3 UCS
 - Expands node with smallest cumulative cost (g)  
